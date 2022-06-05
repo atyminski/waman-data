@@ -1,0 +1,150 @@
+<?xml version = "1.0" encoding = "UTF-8" ?>
+<addons>
+    <addon id="bagnon">
+        <name>Bagnon</name>
+        <provider name="git">
+            <repository>https://github.com/tullamods/Bagnon.git</repository>
+            <checkoutMode>latest_tag</checkoutMode>
+            <branch>master</branch>
+        </provider>
+        <keywords>
+            <keyword>bagnon</keyword>
+            <keyword>bag-non</keyword>
+            <keyword>bag non</keyword>
+        </keywords>
+    </addon>
+    <addon id="bag-brother">
+        <name>BagBrother</name>
+        <provider name="git">
+            <repository>https://github.com/Jaliborc/BagBrother.git</repository>
+            <checkoutMode>latest_commit</checkoutMode>
+            <branch>master</branch>
+        </provider>
+        <keywords>
+            <keyword>bagbrother</keyword>
+            <keyword>bag-brother</keyword>
+        </keywords>
+    </addon>
+    <addon id="bagnon-reagent-bank-button">
+        <name>Bagnon ReagentBankButton</name>
+        <provider name="mmoui">
+            <id>24852-BagnonReagentBankButton</id>
+        </provider>
+    </addon>
+    <addon id="bagnon-required-level">
+        <name>Bagnon RequiredLevel</name>
+        <provider name="mmoui">
+            <id>24849-BagnonRequiredLevel</id>
+        </provider>
+    </addon>
+    <addon id="bagnon-boe">
+        <name>Bagnon_BoE</name>
+        <provider name="github">
+            <repository>GoldpawsStuff/Bagnon_BoE</repository>
+        </provider>
+    </addon>
+    <addon id="bagnon-itemlevel">
+        <name>Bagnon_ItemLevel</name>
+        <provider name="github">
+            <repository>GoldpawsStuff/Bagnon_ItemLevel</repository>
+        </provider>
+    </addon>
+    <addon id="bigwigs">
+        <name>BigWigs</name>
+        <provider name="github">
+            <repository>BigWigsMods/BigWigs</repository>
+        </provider>
+    </addon>
+    <addon id="littlewigs">
+        <name>LittleWigs</name>
+        <provider name="github">
+            <repository>BigWigsMods/LittleWigs</repository>
+        </provider>
+    </addon>
+    <addon id="weakauras2">
+        <name>WeakAuras2</name>
+        <provider name="github">
+            <repository>WeakAuras/WeakAuras2</repository>
+        </provider>
+    </addon>
+    <addon id="raiderio">
+        <name>Raider.IO</name>
+        <provider name="github">
+            <repository>RaiderIO/raiderio-addon</repository>
+        </provider>
+        <keywords>
+            <keyword>raider.io</keyword>
+            <keyword>rio</keyword>
+        </keywords>
+    </addon>
+    <addon id="angry-keystones">
+        <name>Angry Keystones</name>
+        <directory>AngryKeystones</directory>
+        <provider name="git">
+            <repository>https://github.com/Ermad/angry-keystones.git</repository>
+            <checkoutMode>latest_tag</checkoutMode>
+            <branch>master</branch>
+        </provider>
+    </addon>
+    <addon id="bigdebuffs">
+        <name>BigDebuffs</name>
+        <provider name="github">
+            <repository>jordonwow/bigdebuffs</repository>
+        </provider>
+    </addon>
+    <addon id="dungeontools">
+        <name>Dungeon Tools</name>
+        <provider name="github">
+            <repository>LetsTimeIt/DungeonTools</repository>
+            <versionRegex><![CDATA[DungeonTools\s(?<vcap>.+)$]]></versionRegex>
+        </provider>
+    </addon>
+    <addon id="handynotes">
+        <name>Handy Notes</name>
+        <provider name="mmoui">
+            <id>15716-HandyNotes</id>
+        </provider>
+    </addon>
+    <addon id="handynotes-shadowlands">
+        <name>Handy Notes: Shadowlands</name>
+        <provider name="mmoui">
+            <id>25828-HandyNotesShadowlands</id>
+        </provider>
+    </addon>
+    <addon id="maze-helper">
+        <name>Maze Helper (Mists of Tirna Scithe)</name>
+        <provider name="github">
+            <repository>Voopie/MazeHelper</repository>
+        </provider>
+    </addon>
+    <addon id="molinari">
+        <name>Molinari</name>
+        <provider name="mmoui">
+            <id>13188-Molinari</id>
+        </provider>
+    </addon>
+    <addon id="omnibar">
+        <name>OmniBar</name>
+        <provider name="mmoui">
+            <id>23235-OmniBar</id>
+        </provider>
+    </addon>
+    <addon id="plater">
+        <name>Plater-Nameplates</name>
+        <provider name="github">
+            <repository>Tercioo/Plater-Nameplates</repository>
+        </provider>
+    </addon> 
+    <addon id="premade-groups-filter">
+        <name>Premade Groups Filter</name>
+        <provider name="github">
+            <repository>0xbs/premade-groups-filter</repository>
+        </provider>
+    </addon>
+    <addon id="rune-helper">
+        <name>Rune Helper (Tazavesh, the Veiled Market)</name>
+        <provider name="github">
+            <repository>Voopie/RuneHelper</repository>
+        </provider>
+    </addon>
+</addons>

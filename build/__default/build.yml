@@ -1,0 +1,5 @@
+tasks:
+  - name: mv_all
+    args:
+      - ${{SOURCE_DIR}}
+      - ${{ARTIFACTS_DIR}}

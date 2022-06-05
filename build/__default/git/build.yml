@@ -1,0 +1,9 @@
+tasks:
+  - name: detect_toc_dir
+  - name: mkdir
+    args:
+      - ${{ARTIFACTS_DIR}}/${{DIR_NAME}}
+  - name: mv_all
+    args:
+      - ${{TOC_DIR}}
+      - ${{ARTIFACTS_DIR}}/${{DIR_NAME}}

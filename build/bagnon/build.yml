@@ -1,0 +1,5 @@
+tasks:
+  - name: detect_toc_dir
+  - name: template
+    args:
+      - ${{TOC_DIR}}
