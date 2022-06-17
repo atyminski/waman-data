@@ -147,4 +147,10 @@
             <repository>Voopie/RuneHelper</repository>
         </provider>
     </addon>
+    <addon id="pawn">
+        <name>Pawn</name>
+        <provider name="mmoui">
+            <id>7296-Pawn</id>
+        </provider>
+    </addon>
 </addons>
