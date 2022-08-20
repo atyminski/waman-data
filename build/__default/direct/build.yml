@@ -1,0 +1,10 @@
+tasks:
+  - name: detect_toc
+  - name: extract_toc_metadata
+    args:
+      - ${{TOC_FILE}}
+  - name: create_id
+  - name: mv_all
+    args:
+      - ${{SOURCE_DIR}}
+      - ${{ARTIFACTS_DIR}}
