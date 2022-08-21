@@ -101,7 +101,7 @@
     <addon id="dungeontools">
         <name>Dungeon Tools</name>
         <provider name="github">
-            <repository>LetsTimeIt/DungeonTools</repository>
+            <repository>Nnoggie/MythicDungeonTools</repository>
             <versionRegex><![CDATA[DungeonTools\s(?<vcap>.+)$]]></versionRegex>
         </provider>
     </addon>
@@ -135,7 +135,7 @@
             <id>23235-OmniBar</id>
         </provider>
     </addon>
-    <addon id="plater">
+    <addon id="plater-nameplates">
         <name>Plater-Nameplates</name>
         <provider name="github">
             <repository>Tercioo/Plater-Nameplates</repository>
