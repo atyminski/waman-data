@@ -92,6 +92,16 @@
             <branch>master</branch>
         </provider>
     </addon>
+    <addon id="astral-keys">
+        <name>Astral Keys</name>
+        <provider name="github">
+            <repository>astralguild/AstralKeys</repository>
+        </provider>
+        <keywords>
+            <keyword>astral</keyword>
+            <keyword>astralkeys</keyword>
+        </keywords>
+    </addon>
     <addon id="bigdebuffs">
         <name>BigDebuffs</name>
         <provider name="github">
