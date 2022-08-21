@@ -55,6 +55,12 @@
             <repository>BigWigsMods/BigWigs</repository>
         </provider>
     </addon>
+    <addon id="details">
+        <name>Details! Damage Meter</name>
+        <provider name="github">
+            <repository>JustusW/Details-Damage-Meter</repository>
+        </provider>
+    </addon>
     <addon id="littlewigs">
         <name>LittleWigs</name>
         <provider name="github">
