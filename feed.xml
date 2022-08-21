@@ -98,11 +98,10 @@
             <repository>jordonwow/bigdebuffs</repository>
         </provider>
     </addon>
-    <addon id="dungeontools">
-        <name>Dungeon Tools</name>
+    <addon id="mythic-dungeon-tools">
+        <name>Mythic Dungeon Tools</name>
         <provider name="github">
             <repository>Nnoggie/MythicDungeonTools</repository>
-            <versionRegex><![CDATA[DungeonTools\s(?<vcap>.+)$]]></versionRegex>
         </provider>
     </addon>
     <addon id="handynotes">
