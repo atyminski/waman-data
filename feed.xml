@@ -100,8 +100,10 @@
     </addon>
     <addon id="mythic-dungeon-tools">
         <name>Mythic Dungeon Tools</name>
-        <provider name="github">
-            <repository>Nnoggie/MythicDungeonTools</repository>
+        <provider name="git">
+            <repository>https://github.com/Nnoggie/MythicDungeonTools.git</repository>
+            <checkoutMode>latest_tag</checkoutMode>
+            <branch>master</branch>
         </provider>
     </addon>
     <addon id="handynotes">
