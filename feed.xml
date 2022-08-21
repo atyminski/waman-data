@@ -1,5 +1,11 @@
 <?xml version = "1.0" encoding = "UTF-8" ?>
 <addons>
+    <addon id="adibags">
+        <name>AdiBags</name>
+        <provider name="github">
+            <repository>AdiAddons/AdiBags</repository>
+        </provider>
+    </addon>
     <addon id="bagnon">
         <name>Bagnon</name>
         <provider name="git">
@@ -47,6 +53,12 @@
         <name>Bagnon_ItemLevel</name>
         <provider name="github">
             <repository>GoldpawsStuff/Bagnon_ItemLevel</repository>
+        </provider>
+    </addon>
+    <addon id="bagsync">
+        <name>BagSync</name>
+        <provider name="github">
+            <repository>Xruptor/BagSync</repository>
         </provider>
     </addon>
     <addon id="bigwigs">
